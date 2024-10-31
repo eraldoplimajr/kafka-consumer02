@@ -10,7 +10,7 @@ Ele faz parte de uma simulação de um sistema de venda de produtos onde ocorre 
 
 Esse projeto será o consumer 02, ele será o responsável por consumir as mensagens que chegarão no tópico.
 
-[Kafka Producer](https://git-scm.com/) - Projeto contendo o Kafka Producer
+[Kafka Producer](https://github.com/eraldoplimajr/kafka-producer) - Projeto contendo o Kafka Producer
 
 
 ## Conteúdo
